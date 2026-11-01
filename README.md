@@ -14,7 +14,7 @@
 <!-- ═════════════════════════  HEADER  ═════════════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:8957e5&height=230&section=header&text=Shubham%20Kumar%20Sah&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Agentic%20AI%20Engineer&descSize=18&descAlignY=60" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:8957e5&height=230&section=header&text=Shubham%20Kumar%20&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Agentic%20AI%20Engineer&descSize=18&descAlignY=60" alt="header" />
 
 <a href="https://github.com/shubhamkx34">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Building+Agentic+AI+Systems+with+LangGraph;Multi-Agent+Pipelines+%7C+RAG+%7C+HITL;MERN+Stack+%26+Secure+REST+APIs;ECE+by+degree.+Full-Stack+by+craft." alt="Typing SVG" />
@@ -22,16 +22,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=shubhamkx34&label=PROFILE%20VIEWS&color=1f6feb&style=for-the-badge&labelColor=0d1117" alt="views" />
-<img src="https://img.shields.io/github/followers/shubhamkx34?label=FOLLOWERS&style=for-the-badge&color=8957e5&labelColor=0d1117&logo=github" alt="followers" />
-
-<br/><br/>
-
 <a href="mailto:shubhamkx34@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" /></a>
-<!-- FILL: replace YOUR_LINKEDIN_USERNAME -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-<!-- FILL: replace YOUR_PORTFOLIO_URL, or delete this badge if you do not have one -->
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfolio" /></a>
 <!-- OPTIONAL: remove the comment markers to add more
 <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://leetcode.com/u/YOUR_HANDLE"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
@@ -153,7 +144,7 @@ A stateful, tool-using AI assistant built with LangGraph. It keeps separate chat
 
 <a href="https://github.com/shubhamkx34/ThreadSync-AI"><img src="https://img.shields.io/badge/Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
 <!-- FILL: paste your live link -->
-<a href="YOUR_THREADSYNC_LIVE_LINK"><img src="https://img.shields.io/badge/Live%20Demo-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Live demo" /></a>
+<a href="https://threadsync-ai.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Live demo" /></a>
 
 <details>
 <summary><b>How it is built</b> (click to expand)</summary>
@@ -200,9 +191,8 @@ A team of four specialised LLM workers that turns a topic into a sourced report 
 `Python` `LangChain` `Groq` `Tavily` `Trafilatura` `BeautifulSoup` `Streamlit`
 
 <a href="https://github.com/shubhamkx34/Langchain-Multi-Agent-Research-System"><img src="https://img.shields.io/badge/Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
-<!-- OPTIONAL: remove the comment markers if you deploy it
-<a href="YOUR_RESEARCH_LIVE_LINK"><img src="https://img.shields.io/badge/Live%20Demo-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Live demo" /></a>
--->
+
+<a href="https://langchain-multi-agent-research-system-yfao.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Live demo" /></a>
 
 <details>
 <summary><b>How it is built</b> (click to expand)</summary>
@@ -236,7 +226,7 @@ A full-stack MERN platform that turns a resume, a self-description and a target 
 
 <a href="https://github.com/shubhamkx34/Parsify-Resume_Analyzer"><img src="https://img.shields.io/badge/Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
 <!-- FILL: paste your live link -->
-<a href="YOUR_PARSIFY_LIVE_LINK"><img src="https://img.shields.io/badge/Live%20Demo-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Live demo" /></a>
+<a href="https://parsify-analyzer.vercel.app/login"><img src="https://img.shields.io/badge/Live%20Demo-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Live demo" /></a>
 
 <details>
 <summary><b>How it is built</b> (click to expand)</summary>
@@ -271,7 +261,7 @@ An interactive, scroll-driven web experience dedicated to the BMW M5 CS (F90). F
 
 <a href="https://github.com/shubhamkx34/F90-Motion"><img src="https://img.shields.io/badge/Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
 <!-- FILL: paste your live link -->
-<a href="YOUR_F90_LIVE_LINK"><img src="https://img.shields.io/badge/Live%20Demo-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Live demo" /></a>
+<a href="https://f90-motion.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Live demo" /></a>
 
 <details>
 <summary><b>How it is built</b> (click to expand)</summary>
@@ -367,11 +357,9 @@ A full-stack cloud file-storage web app. Users register, log in, upload any file
 
 <br/>
 
-<a href="mailto:shubhamkx34@gmail.com"><img src="https://img.shields.io/badge/Gmail-shubhamkx34%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" /></a>
 <!-- FILL: replace YOUR_LINKEDIN_USERNAME -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-<!-- FILL: replace YOUR_PORTFOLIO_URL, or delete this badge -->
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-visit-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/sk7697"><img src="https://img.shields.io/badge/LinkedIn-connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+
 
 </div>
 
