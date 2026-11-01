@@ -21,8 +21,10 @@
 </a>
 
 <br/>
-
+<!--
 <a href="mailto:shubhamkx34@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" /></a>
+-->
+
 <!-- OPTIONAL: remove the comment markers to add more
 <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://leetcode.com/u/YOUR_HANDLE"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
@@ -357,8 +359,8 @@ A full-stack cloud file-storage web app. Users register, log in, upload any file
 
 <br/>
 
-<!-- FILL: replace YOUR_LINKEDIN_USERNAME -->
-<a href="https://linkedin.com/in/sk7697"><img src="https://img.shields.io/badge/LinkedIn-connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<!-- FILL: replace YOUR_LINKEDIN_USERNAME 
+<a href="https://linkedin.com/in/sk7697"><img src="https://img.shields.io/badge/LinkedIn-connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>  -->
 
 
 </div>
