@@ -17,7 +17,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:8957e5&height=230&section=header&text=Shubham%20Kumar%20&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Agentic%20AI%20Engineer&descSize=18&descAlignY=60" alt="header" />
 
 <a href="https://github.com/shubhamkx34">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Building+Agentic+AI+Systems+with+LangGraph;Multi-Agent+Pipelines+%7C+RAG+%7C+HITL;MERN+Stack+%26+Secure+REST+APIs;ECE+by+degree.+Full-Stack+by+craft." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Building+Agentic+AI+Systems+with+LangGraph;Multi-Agent+Pipelines+%7C+RAG+%7C+HITL;MERN+Stack+%26+Secure+REST+APIs;ECE+by+degree.+Agentic+Full-Stack+by+craft." alt="Typing SVG" />
 </a>
 
 <br/>
