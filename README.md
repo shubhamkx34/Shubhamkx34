@@ -318,35 +318,6 @@ A full-stack cloud file-storage web app. Users register, log in, upload any file
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-<!-- ═════════════════════════  EXPERIENCE  ═════════════════════════ -->
-## `~/experience`
-
-<table>
-  <tr>
-    <td width="170" valign="top"><b>Embedded Software Intern</b><br/><sub>Emertxe · Bangalore, India<br/>Jun 2026 – Aug 2026</sub></td>
-    <td>
-      <ul>
-        <li>Built the core system architecture and control logic in <b>Embedded C</b> for a real-time Electric Vehicle dashboard, testing and simulating hex files in <b>PICSimLab</b>.</li>
-        <li>Engineered event-driven algorithms for an <b>ADAS warning system</b> that processes continuous telemetry inputs and fires instantaneous software-driven safety alerts.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<!-- OPTIONAL SECTIONS: remove the comment markers and fill in whichever you want
-
-## `~/achievements`
-- FILL
-
-## `~/writing`
-- [FILL: post title](FILL: url)
-
-## `~/currently-reading`
-- FILL
-
--->
-
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 <!-- ═════════════════════════  CONTACT  ═════════════════════════ -->
 ## `~/contact`
