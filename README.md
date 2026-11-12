@@ -224,7 +224,7 @@ A team of four specialised LLM workers that turns a topic into a sourced report 
 
 A full-stack MERN platform that turns a resume, a self-description and a target job description into a structured interview-prep report: match score, technical and behavioral questions with model answers, skill-gap analysis with severity levels and a day-wise prep plan, exportable as a PDF.
 
-`React` `Tailwind CSS` `Node.js` `Express` `MongoDB Atlas` `Groq` `Gemini` `Zod` `Puppeteer`
+`React` `Tailwind CSS` `Node.js` `Express` `MongoDB Atlas` `Mongoose` `Groq` `Gemini` `Zod` `Puppeteer`
 
 <a href="https://github.com/shubhamkx34/Parsify-Resume_Analyzer"><img src="https://img.shields.io/badge/Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
 <!-- FILL: paste your live link -->
