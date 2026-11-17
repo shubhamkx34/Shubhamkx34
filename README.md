@@ -106,7 +106,6 @@
       <img align="middle" src="https://img.shields.io/badge/LangSmith-0d1117?style=for-the-badge&logoColor=white" alt="LangSmith" />
       <img align="middle" src="https://img.shields.io/badge/Pydantic-0d1117?style=for-the-badge&logo=pydantic&logoColor=E92063" alt="Pydantic" />
       <img align="middle" src="https://img.shields.io/badge/Groq-0d1117?style=for-the-badge&logoColor=white" alt="Groq" />
-      <img align="middle" src="https://img.shields.io/badge/Tavily-0d1117?style=for-the-badge&logoColor=white" alt="Tavily" />
       <img align="middle" src="https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" />
     </td>
   </tr>
